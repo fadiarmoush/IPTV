@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="Create.png" group-title="USA",Create
-http://192.168.0.100:9001/browse/103
-#EXTINF:-1 tvg-id="I688.39818575.microsoft.com" tvg-name="Cozi" tvg-logo="Cozi.png" group-title="USA",Cozi
-http://192.168.0.100:9001/play/131
+http://10.0.0.6/test.mp4
