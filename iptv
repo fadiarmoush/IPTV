@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="Create.png" group-title="USA",Create
+#EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="https://d2b093lx8c6i7a.cloudfront.net/s3fs-public/styles/show_home_page_logo/public/alfusol_homepage_side_banner_design_musawa_100417.jpg?hyXYcy160JfGECRnEmZC.WDhPc_kRafh&itok=dxdBBirQ" group-title="الفصول الاربعة",الفصول الاربعة
 http://10.0.0.6/test.mp4
