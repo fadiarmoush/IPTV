@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="Create.png" group-title="USA",Create
-https://belugacdn.shoofmax.com/okhwat-altorab-jiz-2/ep20/480p/index.m3u8
+http://192.168.0.100:9001/browse/103
 #EXTINF:-1 tvg-id="I688.39818575.microsoft.com" tvg-name="Cozi" tvg-logo="Cozi.png" group-title="USA",Cozi
-https://belugacdn.shoofmax.com/okhwat-altorab-jiz-2/ep21/480p/index.m3u8
-#EXTINF:-1 tvg-id="I702.28459048.microsoft.com" tvg-logo="CBS.png" group-title="USA",CBS
-https://belugacdn.shoofmax.com/okhwat-altorab-jiz-2/ep22/480p/index.m3u8
-#EXTINF:-1 tvg-id="I703.195990477.microsoft.com" tvg-name="ION" tvg-logo="ION.png" group-title="USA",ION
-https://belugacdn.shoofmax.com/okhwat-altorab-jiz-2/ep25/480p/index.m3u8
+http://192.168.0.100:9001/play/131
